@@ -11,14 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=lowlandrepair&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" height="30" />
 </div>
 
----
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lowlandrepair&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
-</div>
-
----
 
 ### 🚀 Technical Arsenal
 
@@ -67,6 +60,15 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI0dTZ6NHZia251dzB4bzliNjBtc21xZ2xpaDNvM2o3ODlxbWt3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/boYxZ1fa72kcgr70sN/giphy.gif" width="300" />
 </p>
+
+---
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lowlandrepair&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
+</div>
 
 ---
 
