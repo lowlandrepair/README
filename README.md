@@ -29,8 +29,9 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lowlandrepair&show_icons=true&theme=transparent&title_color=4169E1&text_color=ffffff&icon_color=4169E1" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=transparent&title_color=4169E1&text_color=ffffff" height="175" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lowlandrepair&show_icons=true&theme=transparent&title_color=4169E1&text_color=ffffff&icon_color=4169E1" height="175" />
+  
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=transparent&title_color=4169E1&text_color=ffffff" height="175" />
 </div>
 
 ---
