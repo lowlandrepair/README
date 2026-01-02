@@ -59,5 +59,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Quote" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTI0dTZ6NHZia251dzB4bzliNjBtc21xZ2xpaDNvM2o3ODlxbWt3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/boYxZ1fa72kcgr70sN/giphy.gif" width="300" />
 </div>
