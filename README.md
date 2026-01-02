@@ -22,22 +22,22 @@
 
 ### 🚀 Technical Arsenal
 
-**Languages & Frameworks**
-<p align="left">
+<div align="center">
+  <b>Languages & Frameworks</b>
+  <br/>
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,cpp,c,php,lua,kotlin,html,css&perline=10" />
-</p>
-
-**Tools & Development**
-<p align="left">
+  <br/><br/>
+  <b>Tools & Development</b>
+  <br/>
   <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,docker,linux,vscode,phpstorm,pycharm,figma,inkscape,unity,threejs,wordpress&perline=10" />
-</p>
+</div>
 
 ---
 
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=lowlandrepair&theme=tokyonight&border_radius=10&stroke=4169E1&ring=4169E1&fire=4169E1" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowlandrepair&theme=tokyonight&border_radius=10&stroke=4169E1&ring=4169E1&fire=4169E1" alt="streak stats" />
 </div>
 
 <br/>
@@ -47,18 +47,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=tokyonight&border_radius=10&title_color=4169E1&langs_count=8" height="185" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lowlandrepair&theme=tokyonight&area=true&color=4169E1" width="100%" />
-</div>
-
 ---
 
-### 🦖 The Dino Run
+### 🐍 The Snake Game
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/dino-dark.svg" alt="Dino Run" width="100%" />
+  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/dino-dark.svg" alt="Snake Game Animation" width="100%" />
 </div>
 
 <p align="center">
