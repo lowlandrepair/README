@@ -1,8 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&text=lowlandrepair&theme=cobalt" />
-  
   <br/>
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -31,23 +29,16 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowlandrepair&theme=dracula&hide_border=false" alt="streak stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lowlandrepair&show_icons=true&theme=dracula&count_private=true" height="175" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=dracula&langs_count=6" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lowlandrepair&show_icons=true&theme=transparent&title_color=4169E1&text_color=ffffff&icon_color=4169E1" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=transparent&title_color=4169E1&text_color=ffffff" height="175" />
 </div>
 
 ---
 
-### 🦖 The Dino Run (Offline Game)
+### 🦖 The Dino Run
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/snake.svg" alt="Dino Run" width="100%" />
-  <p><i>The contribution snake above is currently navigating your coding history!</i></p>
+  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/dino-dark.svg" alt="Dino Run" width="100%" />
 </div>
 
 <p align="center">
