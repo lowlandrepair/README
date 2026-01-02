@@ -44,10 +44,9 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lowlandrepair&show_icons=true&theme=dracula&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=dracula&langs_count=6" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lowlandrepair&show_icons=true&theme=dracula&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=dracula&langs_count=6" height="170" />
 </div>
-
 <br />
 
 **🐍 The Classic Snake**
