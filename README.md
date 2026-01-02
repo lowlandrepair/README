@@ -18,21 +18,24 @@
 
 ### 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws,react,vue,nodejs,mysql,mongodb,git,vscode,linux" />
+**Languages & Frameworks**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,c,cpp,lua,kotlin,php,html,css" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="45" alt="storybook" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" alt="azure" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="45" alt="threejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="45" alt="unity" />
+**Tools & Backend**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,gitlab,docker,linux,nginx" />
 </div>
 
----
+<br />
+
+**Software & IDEs**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,figma,inkscape,bootstrap,jquery,gradle,unity,threejs,wordpress,woocommerce" />
+</div>
 
 ### 📊 GitHub Activity
 
