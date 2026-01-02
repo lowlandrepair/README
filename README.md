@@ -23,13 +23,18 @@
 ### 🚀 Technical Arsenal
 
 <div align="center">
-  <b>Languages & Frameworks</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,cpp,c,php,lua,kotlin,html,css&perline=10" />
-  <br/><br/>
-  <b>Tools & Development</b>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,docker,linux,vscode,phpstorm,pycharm,figma,inkscape,unity,threejs,wordpress&perline=10" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>Languages & Frameworks</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,cpp,c,php,lua,kotlin,html,css&perline=5" />
+      </td>
+      <td align="center" width="50%">
+        <b>Tools & Development</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,docker,linux,vscode,phpstorm,pycharm,figma,inkscape,unity,threejs,wordpress&perline=5" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -37,7 +42,7 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowlandrepair&theme=tokyonight&border_radius=10&stroke=4169E1&ring=4169E1&fire=4169E1" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=lowlandrepair&theme=tokyonight&border_radius=10&stroke=4169E1&ring=4169E1&fire=4169E1" alt="streak stats" />
 </div>
 
 <br/>
