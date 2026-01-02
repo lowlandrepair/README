@@ -8,6 +8,14 @@
   <a href="https://www.linkedin.com/in/dalmat-ademi-4b7389314/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" /></a>
   <a href="https://www.instagram.com/dalmat_ademi/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" /></a>
   <a href="mailto:dalmat.ademi@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lowlandrepair&color=4169E1&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" height="30" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lowlandrepair&theme=tokyonight&no-bg=true&margin-w=15" alt="trophies" />
 </div>
 
 ---
@@ -16,12 +24,12 @@
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,cpp,c,php,html,css&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,cpp,c,php,lua,kotlin,html,css&perline=10" />
 </p>
 
 **Tools & Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,docker,linux,vscode,phpstorm,pycharm,unity,threejs,wordpress&perline=12" />
+  <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,docker,linux,vscode,phpstorm,pycharm,figma,inkscape,unity,threejs,wordpress&perline=10" />
 </p>
 
 ---
@@ -29,14 +37,20 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowlandrepair&theme=tokyonight&border_radius=10&stroke=4169E1&ring=4169E1&fire=4169E1" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=lowlandrepair&theme=tokyonight&border_radius=10&stroke=4169E1&ring=4169E1&fire=4169E1" alt="streak stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lowlandrepair&show_icons=true&theme=tokyonight&border_radius=10&title_color=4169E1&icon_color=4169E1" height="185" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=tokyonight&border_radius=10&title_color=4169E1" height="185" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lowlandrepair&show_icons=true&theme=tokyonight&border_radius=10&title_color=4169E1&icon_color=4169E1&count_private=true" height="185" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=tokyonight&border_radius=10&title_color=4169E1&langs_count=8" height="185" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lowlandrepair&theme=tokyonight&area=true&color=4169E1" width="100%" />
 </div>
 
 ---
