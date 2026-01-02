@@ -29,8 +29,14 @@
 ### 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lowlandrepair&show_icons=true&theme=transparent&title_color=4169E1&text_color=ffffff&icon_color=4169E1" height="175" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=transparent&title_color=4169E1&text_color=ffffff" height="175" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lowlandrepair&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&box_shadow=true&title_color=4169E1&icon_color=4169E1" height="185" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&title_color=4169E1" height="185" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowlandrepair&theme=tokyonight&border_radius=10&stroke=4169E1&ring=4169E1&fire=4169E1" alt="streak stats" />
 </div>
 
 ---
@@ -60,3 +66,7 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
