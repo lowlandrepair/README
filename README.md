@@ -1,64 +1,71 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&text=Hey%20👋%20What's%20Up?&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&text=lowlandrepair&theme=cobalt" />
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/dalmat-ademi-4b7389314/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/dalmat_ademi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:dalmat.ademi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+  <a href="https://www.linkedin.com/in/dalmat-ademi-4b7389314/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="https://www.instagram.com/dalmat_ademi/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" /></a>
+  <a href="mailto:dalmat.ademi@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" /></a>
 </div>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Technical Arsenal
 
 **Languages & Frameworks**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,cpp,c,php,html,css&perline=12" />
 </p>
 
-**Tools & Software**
+**Tools & Development**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,docker,linux,vscode,phpstorm,pycharm,unity,threejs,wordpress&perline=12" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Performance Metrics
 
-**🕹️ Pacman World**
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lowlandrepair&theme=dracula&hide_border=false" alt="streak stats" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lowlandrepair&show_icons=true&theme=dracula&count_private=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=dracula&langs_count=6" height="170" />
-</div>
-<br />
-
-**🐍 The Classic Snake**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lowlandrepair&show_icons=true&theme=dracula&count_private=true" height="175" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=dracula&langs_count=6" height="175" />
 </div>
 
 ---
 
-### 🎵 Recently Played
+### 🦖 The Dino Run (Offline Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/snake.svg" alt="Dino Run" width="100%" />
+  <p><i>The contribution snake above is currently navigating your coding history!</i></p>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+---
+
+### 🎵 Soundboard & Inspiration
+
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=31eqwzqx26hohugj323x6phdsmmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eqwzqx26hohugj323x6phdsmmy&count=5&unique=true" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eqwzqx26hohugj323x6phdsmmy&count=4&unique=true" alt="Spotify" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Daily Quote" />
 </div>
