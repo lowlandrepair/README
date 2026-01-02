@@ -1,16 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&text=Hey%20👋%20What's%20Up?&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&text=Hey%20👋%20What's%20Up?&theme=cobalt" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dalmat-ademi-4b7389314/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.instagram.com/dalmat_ademi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  <a href="mailto:dalmat.ademi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
 
@@ -18,24 +18,15 @@
 
 ### 🚀 Tech Stack
 
-**Languages & Frameworks**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,c,cpp,lua,kotlin,php,html,css" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,nestjs,graphql,go,rust,py,java&perline=12" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,mongodb,redis,git,github,gitlab,linux,docker,nginx&perline=12" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,cpp,c,lua,kotlin,php,bootstrap,jquery,unity,wordpress&perline=12" />
 </div>
 
-<br />
-
-**Tools & Backend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,gitlab,docker,linux,nginx" />
-</div>
-
-<br />
-
-**Software & IDEs**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,figma,inkscape,bootstrap,jquery,gradle,unity,threejs,wordpress,woocommerce" />
-</div>
+---
 
 ### 📊 GitHub Activity
 
@@ -50,8 +41,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lowlandrepair&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=dracula&langs_count=6" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lowlandrepair&show_icons=true&theme=dracula&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lowlandrepair&layout=compact&theme=dracula&langs_count=6" height="170" />
 </div>
 
 <br />
@@ -64,11 +55,7 @@
 
 ### 🎵 Recently Played
 <div align="center">
-  <a href="https://open.spotify.com/user/31eqwzqx26hohugj323x6phdsmmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eqwzqx26hohugj323x6phdsmmy&count=5&unique=true" alt="Spotify recently played" />
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=31eqwzqx26hohugj323x6phdsmmy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eqwzqx26hohugj323x6phdsmmy&count=5&unique=true" />
   </a>
-</div>
-
-<div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnY4NzhuZjU5a3I5ZjhzZ2swYzh6YjFjMzBuejBjNHNqeHdiYzlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif" />
 </div>
