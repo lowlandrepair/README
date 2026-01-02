@@ -20,23 +20,19 @@
 
 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,c,cpp,lua,kotlin,php,html,css&perline=12" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,vue,angular,tailwind,nodejs,nestjs,go,rust,py,java,cpp,c,php,html,css&perline=12" />
 </p>
 
-**Tools & Backend**
+**Tools & Software**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,gitlab,docker,linux,nginx&perline=12" />
-</p>
-
-**Software & IDEs**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,phpstorm,pycharm,figma,inkscape,bootstrap,jquery,gradle,unity,threejs,wordpress,woocommerce&perline=12" />
+  <img src="https://skillicons.dev/icons?i=graphql,aws,azure,gcp,mysql,mongodb,redis,git,github,docker,linux,vscode,phpstorm,pycharm,unity,threejs,wordpress&perline=12" />
 </p>
 
 ---
 
 ### 📊 GitHub Activity
 
+**🕹️ Pacman World**
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/pacman-contribution-graph-dark.svg">
@@ -54,8 +50,9 @@
 
 <br />
 
+**🐍 The Classic Snake**
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/snake.svg" alt="Snake animation" width="80%" />
+  <img src="https://raw.githubusercontent.com/lowlandrepair/lowlandrepair/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
